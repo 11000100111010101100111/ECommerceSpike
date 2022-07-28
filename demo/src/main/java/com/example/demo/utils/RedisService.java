@@ -7,8 +7,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created by IntelliJ IDEA.
  * @author xjh
- * @since 2022/6/29
- * Time: 12:14
+ * @since 2022/7/28
+ * Time: 11:18
  * spring redis 工具类
  **/
 @SuppressWarnings(value = {"unchecked", "rawtypes"})

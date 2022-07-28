@@ -13,10 +13,9 @@ import java.util.List;
 
 /**
  * Created by IntelliJ IDEA.
- *
  * @author xjh
- * @since 2022/6/29
- * Time: 12:07
+ * @since 2022/7/28
+ * Time: 11:14
  **/
 @RestController("/activate")
 public class TestController {
